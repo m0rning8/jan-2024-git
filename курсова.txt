@@ -1,4 +1,10 @@
-MyClass(name = "jsdgfdgs", value = 46)
-MyClass(name = "jsdgfdgs", value = 46)
-MyClass(name = "jsdgfdgs", value = 46)
-MyClass(name = "jsdgfdgs", value = 46)
+Welcome to the Simpsons Wiki!
+Homer Jay Simpson (born May 12, 1956) is a man from Springfield and the protagonist of the animated television series The Simpsons.
+
+He is a crude, ignorant, and slobbish individual, although he is fundamentally a good person and shows great caring and loyalty to his family, friends and on occasion, to those he barely knows or those he considers his enemies.
+
+Homer works as a low-level safety inspector at the Springfield Nuclear Power Plant in Sector 7G, although he is often incompetent and negligent towards his duties. He spends a great deal of his time at Moe's Tavern with his friends Barney Gumble, Carl Carlson, Lenny Leonard, and Moe Szyslak. At home, he can often be found sitting on the couch mindlessly watching TV while snacking on food and drinking Duff. Homer is also the only son of Abe Simpson II and the late Mona Simpson, but he has two illegitimate half-siblings on Abraham's side.[39][40] . He is married to Marge Simpson and has three children with her: Bart, Lisa, and Maggie. When provoked, he often strangles Bart for pressuring him. Even though he mutually hates his wife's sisters Patty Bouvier and Selma Bouvier, he played Selma's husband for her to adopt Ling and agreed to be the minister for Patty's intended homosexual marriage. As a result of this, Homer is her legal adoptive father.[
+
+
+
+
